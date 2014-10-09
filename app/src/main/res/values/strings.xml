@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">I\'m Fucking Starving</string>
+    <string name="what_i_want_to_eat">I\'m fucking hungry for...</string>
+    <string name="action_settings">Settings</string>
+    <string name="who_i_want_to_eat_with">I want to eat with...</string>
+    <string name="when_i_want_to_eat">I want to eat...</string>
+    <string name="go_button">FEED ME!!!</string>
+    <string name="logout_button">logout</string>
+
+    <string name="activity_toasty">toast tapped</string>
+    <string name="activity_hunger_initiated">You are officially hungry!!!!!</string>
+
+    <string-array name="food_array">
+        <item>Chinese food</item>
+        <item>Pizza</item>
+        <item>Indian food</item>
+        <item>Salad</item>
+        <item>SOMETHING GREAT</item>
+    </string-array>
+
+    <string-array name="people_array">
+        <item>All my friends</item>
+        <item>SO</item>
+        <item>Work Buds</item>
+        <item>RANDOM STRANGER</item>
+    </string-array>
+
+    <string-array name="time_array">
+        <item>now (well, soon...)</item>
+        <item>tonight</item>
+    </string-array>
+
+</resources>
